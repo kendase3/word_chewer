@@ -1,0 +1,20 @@
+A basic anagram solver.
+
+Run with:
+python word_chewer.py
+
+or with:
+
+python word_chewer.py [input word]
+
+to specify the word you would like to be chewed immediately.  
+
+To supply a custom dictionary in the local directory named dict.txt:
+python word_chewer.py [input word] dict.txt
+
+If you have any problems, try:
+python word_chewer.py help
+
+Good luck!
+
+If you have any questions, contact ira<at>wereware.com
